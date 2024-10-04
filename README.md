@@ -8,7 +8,7 @@ I'm Hadi, a seasoned mechanical engineer with a passion for exploring the realms
 - 🕊️ FOSS & self-hosting technologies enthusiast.
 - 📫 Let's connect and explore opportunities or discuss fascinating projects:&ensp;&ensp;
 [![me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hadi-sqalli-69608295/)&ensp;
-[![email](https://skillicons.dev/icons?i=gmail)](sqallihadi.pro@gmail.com)<br>
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:sqallihadi.pro@gmail.com)<br>
 
 
 🛠️ My skills
